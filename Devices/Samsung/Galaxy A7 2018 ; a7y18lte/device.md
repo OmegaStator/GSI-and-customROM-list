@@ -14,6 +14,7 @@ This device has not been tested enough to have a proper rank
 - VNDK type : VNDKLite
 - Device architecture : ARM64
 - Device partition type (on stock) : AB
+- Full VNDK compilant : Unknown
 
 ## Tips and tricks
 Custom recoveries are having issues with recent security patches ; if no custom recovery is installed and you are gonna install one, check in download mode your BL version, if it's 5, downgrade to november 2020 security patch and then install your custom recover. __WARNING : DOWNGRADING WILL MOST LIKELY CORRUPT THE /DATA PARTITION AND SO ANDROID WILL ASK YOU TO RESET YOUR PHONE, PLEASE BACKUP ANY IMPORTANT DATA BEFORE DOING ANYTHING

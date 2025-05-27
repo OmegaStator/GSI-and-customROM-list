@@ -1,4 +1,4 @@
-this is a template for creating a GSI page, everything in _italic_ will need to be replaced by the corresponding information. Everything that is between __/two slashes are indications/__
+this is a template for creating a GSI page, _everything in italic will need to be replaced by the corresponding information_. __/Everything that is between slashes are indications/__
 
 __/We do the GSI categorisation depending on the info we have and the infos you provide, so no worry if you don't see the categorisation in the template/__
 
@@ -8,7 +8,7 @@ __/ROMs that are based from stock ROMs (example : Stock debloated) are not inclu
 # _Name of the Custom ROM_
 ## General information
 - Android Version : _Android version number+letter +sdk number_
-- ROM version : _ROM version_ __/Not the android version/__
+- ROM version : _ROM version_ __/Not the android version, for example lineageOS _18.1_/__
 - ROM specific features : _For roms that have exclusives features_ __/Some roms don't have exclusive features, in this case, remove this line/__
 - VNDK version and type : _VNDK version+ Type_ __/Please write none for roms that aren't GSI compatible/__
 - Partition Type : _GSI partition type_ __/Same as VNDK, if the rom isn't GSI compatible, don't write this line/__
@@ -24,7 +24,7 @@ Official website : _Official website link_
 
 Github : _Github link_
 
-BMC : _BMC link_
+BMC : _Buy me a coffee link_
 
 Patreon : _Patreon link_
 

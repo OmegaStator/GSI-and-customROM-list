@@ -27,8 +27,6 @@ Devices that have this rank have really great performance and no issues whatsoev
 ### Uncategorized 🤔
 These devices didn't have enough tests to be sure about what works and what doesn't.
 
-__Devices needs a minimal of 3 different tested GSI__ to be categorized, ROMs __are not counted__ in the tests for ranking
-
 ---
 ## GSI/Custom ROM Ranking
 
@@ -47,7 +45,6 @@ Has good customization, comatibility, interface, and no big issue
 ### Uncategorized 🤔
 These GSI/Custom ROMs didn't have enough tests to have a categorization
 
-__GSI needs a minimal of 5 different devices from a minimal of 3 different brands__ (this is used to prevent device-specific and brand-specific issue). Because of how they work, __custom ROMs needs only one full test or two mostly complete tests__
 
 ---
 ## GSI Lists

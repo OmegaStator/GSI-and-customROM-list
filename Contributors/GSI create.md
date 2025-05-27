@@ -1,4 +1,4 @@
-this is a template for creating a GSI page, everything in _italic_ will need to be replaced by the corresponding information. Everything that is between __/two slashes are indications/__
+this is a template for creating a GSI page, _everything in italic will need to be replaced by the corresponding information_. __/Everything that is between slashes are indications/__
 
 __/We do the GSI categorisation depending on the info we have and the infos you provide, so no worry if you don't see the categorisation in the template/__
 

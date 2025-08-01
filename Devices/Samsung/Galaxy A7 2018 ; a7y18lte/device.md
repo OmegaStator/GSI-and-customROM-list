@@ -49,3 +49,26 @@ Tested with Quantum-Quack-GSI 2.5, Magisk v28.1, LSposed, MicroG
 
 #### What do you think about it
 It's great to have a lot of customisation while still having AOSP performance, not a lot of bugs and really great in general
+
+### LineageOS 19.1 by @OmegaStator
+- Phone : Samsung Galaxy A7 (2018) / a7y18lte
+- model number : SM-A750FN/DS
+- Vendor ROM : Android 10 stock
+- Recovery Used : PitchBlack Recovery Project 3.1.0
+
+#### What has been tested and __works__
+- Bluetooth
+- Wifi
+- Apps
+- SMS
+- Non-bluetooth calls
+
+#### What has been tested and __doesn't work__
+- nothing for now
+#### Other issues : 
+- nothing for now
+#### Aditionnal informations
+Tested with Quantum-Quack-GSI 2.5, Magisk v29, LSposed and MicroG
+
+#### What do you think about it
+Basic but still does a great job

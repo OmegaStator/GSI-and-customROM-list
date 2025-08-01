@@ -8,7 +8,7 @@ This list is intended to know if GSIs or CustomROMs works great with your device
 Talks by itself, theses devices can't install GSIs and no ROMs make it compatible (at least of what we know)
 
 ### Absolute Garbage 🍅
-Devices with this ranking needs a custom ROM to make GSIs works, major features are missing or have major issues.
+Devices with this ranking needs a custom ROM to make GSIs works or major features are missing or have major issues.
 
 ### Not really good 👎
 Devices with this ranking are known for having big issues with almost every GSI.
@@ -68,7 +68,7 @@ The device .md file will include
 - VNDK/VNDKLite
 - Partition type (A-only or AB)
 - Processor arch (armeabi-v7a, arm64, arm64_binder, x86,x86_64)
-- Full VNDK compliant capabilities (if you have it, good news, you can install android versions that are higher than your stock one, if you don't, well you are locked with your stock android version)
+- Full VNDK compliant capabilities (if you have it, good news, you can install android versions that are higher than your stock one, if you don't, well you are locked down with your stock android version)
 It will also include the known custom ROMs with the following tags
 - [Universal] : Theses ROMs are universal to a specific chip
 - [Shared] : Theses ROMs are common between multiple devices

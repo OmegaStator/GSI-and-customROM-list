@@ -2,8 +2,8 @@
 ## Ranking : Uncategorized 🤔
 This GSI didn't have enough tests to be categorized
 ## General information
-- Android Version : Android 10/Q /SDK 29
-- VNDK version needed : _unknown_
+- Android Version : Android 10/ Q / SDK 29
+- minimum VNDK version required : _unknown_
 - VNDK type : Full or Lite
 - CPU arch : ARM64, ARM, ARM64-Binder
 - partition type : A-only and AB
@@ -21,7 +21,7 @@ Official website : https://xdaforums.com/t/10-0-unofficial-resurrection-remix-v8
 
 ## Reviews
 ### @OmegaStator
-- Phone : Samsung galaxy A7 (2018) / a7y18lte
+- Phone : Samsung Galaxy A7 (2018) / a7y18lte
 - model number : SM-A750FN/DS
 - Vendor ROM : StockLite A7 v1.5
 - Vendor ROM link : https://xdaforums.com/t/rom-10-a750x-stocklite-a7.4594889/
@@ -37,10 +37,10 @@ Official website : https://xdaforums.com/t/10-0-unofficial-resurrection-remix-v8
 #### What has been tested and __doesn't work__
 - nothing for now
 #### Other issues : 
-- SystemUI crashes when enabling bluetooth or wifi from the QS tiles
+- SystemUI crashes sometimes when enabling bluetooth or wifi from the QS tiles
 
 #### Aditionnal informations
-Tested with Quantum-Quack-GSI 2.5, Magisk v28.1, LSposed, Shaimoko, MicroG
+Tested with Quantum-Quack-GSI 2.5, Magisk v28.1, LSposed, Shaimoko and MicroG
 
 #### What do you think about it
 It's great to have a lot of customisation while still having AOSP performance, not a lot of bugs and really great in general

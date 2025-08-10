@@ -19,9 +19,12 @@ This device has not been tested enough to have a proper rank
 ## Tips and tricks
 Custom recoveries are having issues with recent security patches ; if no custom recovery is installed and you are gonna install one, check in download mode your BL version, if it's 5, downgrade your BL to 2020 security patch and then install your custom recovery . __WARNING : DOWNGRADING WILL MOST LIKELY CORRUPT THE /DATA PARTITION AND SO ANDROID WILL ASK YOU TO RESET YOUR PHONE, PLEASE BACKUP ANY IMPORTANT DATA BEFORE DOING ANYTHING__
 
+When you enter into the recovery for the first time, __do a reset from wipe -> Reset__, or else you will not have access to /data partition and ROMs will only use 11Gb of storage
+
 ## Available ROMs
-- TreeUI+
-- TreeUI
+- TreeUI+ (OneUI 3.1 port from Galaxy S20)
+- TreeUI (OneUI 3.1 port from Galaxy M31)
+- OneUI3.1 port from Galaxy A51 (Requires TreeUI)
 - LineageOS 18.1
 
 ## review

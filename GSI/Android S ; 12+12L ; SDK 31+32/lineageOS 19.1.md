@@ -35,7 +35,7 @@ Official website : https://sourceforge.net/projects/andyyan-gsi/files/lineage-19
 #### What has been tested and __doesn't work__
 - nothing for now
 #### Other issues : 
-- nothing for now
+- System randomly bootloops because of vaultkeeper, probably a device issue
 #### Aditionnal informations
 Tested with Quantum-Quack-GSI 2.5, Magisk v29, LSposed and MicroG
 

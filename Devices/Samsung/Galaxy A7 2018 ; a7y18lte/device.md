@@ -66,7 +66,7 @@ It's great to have a lot of customisation while still having AOSP performance, n
 #### What has been tested and __doesn't work__
 - nothing for now
 #### Other issues : 
-- nothing for now
+- System randomly bootloops because of vaultkeeper, probably a device issue
 #### Aditionnal informations
 Tested with Quantum-Quack-GSI 2.5, Magisk v29, LSposed and MicroG
 

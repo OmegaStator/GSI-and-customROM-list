@@ -7,6 +7,7 @@ This device has not been tested enough to have a proper rank
 ## Warnings
 - Some people on XDA are incorrectly saying that this system is A-only, while the stock ROM is on AB
 - Recoveries are known for having issues with recent security patches, see _tips and tricks_ for more information
+- All GSIs past android 12 have an issue with screen lock which leads to bootloop, not depending on the vendor
 
 ## General information
 - Maxial VNDK version (including custom) : VNDK30
@@ -21,13 +22,16 @@ Custom recoveries are having issues with recent security patches ; if no custom 
 
 When you enter into the recovery for the first time, __do a reset from wipe -> Reset__, or else you will not have access to /data partition and ROMs will only use 11Gb of storage
 
+If you want to use a GSI with android version >= 12, don't setup a screen lock as your system will bootloop, if you still want a lockscreen, install a custom lockscreen app
+
 ## Available ROMs
 - TreeUI+ (OneUI 3.1 port from Galaxy S20)
 - TreeUI (OneUI 3.1 port from Galaxy M31)
 - OneUI3.1 port from Galaxy A51 (Requires TreeUI)
 - LineageOS 18.1
 
-## review
+
+## Reviews
 
 ### Ressurection Remix by @OmegaStator
 - Model number : SM-A750FN/DS
@@ -44,8 +48,10 @@ When you enter into the recovery for the first time, __do a reset from wipe -> R
 
 #### What has been tested and __doesn't work__
 - nothing for now
+
 #### Other issues : 
 - SystemUI crashes when enabling wifi/bluetooth from the QS tiles
+- Too much crashes from SystemUI will reset all your settings and removes most of the customization features
 
 #### Aditionnal informations
 Tested with Quantum-Quack-GSI 2.5, Magisk v28.1, LSposed, MicroG
@@ -53,8 +59,8 @@ Tested with Quantum-Quack-GSI 2.5, Magisk v28.1, LSposed, MicroG
 #### What do you think about it
 It's great to have a lot of customisation while still having AOSP performance, not a lot of bugs and really great in general
 
+
 ### LineageOS 19.1 by @OmegaStator
-- Phone : Samsung Galaxy A7 (2018) / a7y18lte
 - model number : SM-A750FN/DS
 - Vendor ROM : Android 10 stock
 - Recovery Used : PitchBlack Recovery Project 3.1.0
@@ -67,9 +73,11 @@ It's great to have a lot of customisation while still having AOSP performance, n
 - Non-bluetooth calls
 
 #### What has been tested and __doesn't work__
-- nothing for now
+- Bluetooth calls
+
 #### Other issues : 
-- System randomly bootloops because of vaultkeeper, probably a device issue
+- Bootloop when setting a lockscreen (due to a device issue)
+
 #### Aditionnal informations
 Tested with Quantum-Quack-GSI 2.5, Magisk v29, LSposed and MicroG
 

@@ -4,13 +4,10 @@
 This device got this ranking because it doesn't support project Treble, and so doesn't support GSIs
 
 ## Warnings
-- Seems like some firmware-givers lets you download a glitched firmware that tricks your device to be in ARMV8l, which is a 32-bit mode on a 64-bit processor, check your processor arch if you reflash your stock firmware. The problem also seems to happen on custom ROMs after installing theses bugged firmwares, it might be caused by a glitched Bootloader
+Most ROMs lock the CPU into ARMv8l mode, which is a 32-bit mode for the ARM64-V8A instruction set, so most roms won't work with apps made for ARM64
 
 ## General information
 - Device architecture : ARM64
-
-## Tips and tricks
-If you are on stock firmware, try to keep it. If you don't,trying to reflash the firmware could create glitches like said in ___warning___
 
 ## Known Available ROMs
 - LineageOS 15.1

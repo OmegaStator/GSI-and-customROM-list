@@ -31,4 +31,4 @@ Patreon : _Patreon link_
 Other links : _other links like instagram, facebook, youtube..._
 
 ## Reviews
-__/Keep empty, unless you are also doing a review of the ROM, if that is so, add it by following the GSI_review.md template/__
+__/Keep empty, unless you are also doing a review of the ROM, if that is so, add it by following the "device+ROM review.md" template/__

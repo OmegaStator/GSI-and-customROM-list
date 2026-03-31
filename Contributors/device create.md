@@ -15,7 +15,7 @@ __/You can also warn the users if some people are spreading misinformation like 
 - VNDK type : _VNDK or VNDKLite_
 - Device architecture : _ARM64, armeabiV7, ARM64_binder, X86, x86_64..._
 - Device partition type (on stock) : _Device partition type, A-only or AB_ __/The partititon type must be the stock one/__
-- Full VNDK compliant capabilities : _If the device is fully VNDK compliant, put "Yes", if not, put "No"_ __/If you don't know about it, put "unknown", you can find it by running { adb shell cat /system/etc/ld.config./put your version letter/.txt
+- Full VNDK compliant capabilities : _If the device is fully VNDK compliant, put "Yes", if not, put "No"_ __/If you don't know about it, put "unknown", you can find it by running { adb shell cat /system/etc/ld.config.[[put your version letter]].txt
 | grep -A 20 "[vendor]" } /__
 
 ## Tips and tricks
@@ -25,4 +25,4 @@ __/optional, only if this device has problems that can be fixed in any way/__
 __/Here put ONLY the roms that are compatible with this device. If a compatible ROM is universal for a specific SoC, put [Universal]. If it works on other devices, put [Shared]. If it is discontinued, put [Discontinued]. A rom is considered as Discontinued if the last update was from one year or more/__
 
 ## Review
-__/don't put anything here, unless you are also doing a review, in this case, follow device+gsi_review.md in /Contributors /__
+__/don't put anything here, unless you are also doing a review, in this case, "follow device+ROM review.md" in /Contributors /__

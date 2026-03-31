@@ -36,8 +36,11 @@ Official website : https://xdaforums.com/t/10-0-unofficial-resurrection-remix-v8
 
 #### What has been tested and __doesn't work__
 - nothing for now
+
 #### Other issues : 
 - SystemUI crashes sometimes when enabling bluetooth or wifi from the QS tiles
+- Too much crashes from SystemUI will reset all your settings and removes most of the customization features
+
 
 #### Aditionnal informations
 Tested with Quantum-Quack-GSI 2.5, Magisk v28.1, LSposed, Shaimoko and MicroG

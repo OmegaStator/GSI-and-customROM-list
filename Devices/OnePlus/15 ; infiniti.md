@@ -5,7 +5,7 @@
 This device has not been tested enough to have a proper rank
 
 ## Warnings
-- Be careful to what you are flashing with fastboot, since OOS 16.0.401, OnePlus uses the update Efuse integrated into the chip, which makes downgrades impossible, but this also blocks system images for lower ARB versions
+- Be careful to what you are flashing with fastboot, since OOS 16.0.401, OnePlus uses the update Efuse integrated into the chip, which makes downgrades impossible, but this also blocks system images for lower ARB versions. Flashing a system image with a low ARB bit will brick your device and will only be recoverable with Qualcomm EDL and a proper EDL cable.
 
 ## General information
 - Maximal VNDK version : 202504.0 on Android 16 (stock)
@@ -21,6 +21,8 @@ This device has not been tested enough to have a proper rank
 - [Derpfest _from koaaN_](https://danielspringer.at/index.php?dir=Oneplus+15%2FCustom+Roms%2FTestbuilds%2FJonas%2FDerpFest)
     - Has an IMEI issue which causes most careers to entirely not work, so this ROM is not reccomended
 - [Infinity-X _from koaan_](https://danielspringer.at/index.php?dir=Oneplus+15%2FCustom+Roms%2FTestbuilds%2FJonas%2FInfinity-X)
+    - Has an IMEI issue which causes most careers to entirely not work, so this ROM is not reccomended
+- [LineageOS 23.2 _from RedLintu16_](https://xdaforums.com/t/updated-google-applications-not-official-lineageos-23-2.4783073/)
     - Has an IMEI issue which causes most careers to entirely not work, so this ROM is not reccomended
 
 ## In developpement ROMs
